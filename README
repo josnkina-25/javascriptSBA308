@@ -1,0 +1,17 @@
+This project uses basic JavaScript to process student assignment data.
+The program calculates each learner’s assignment scores and their overall average based on completed assignments.
+What does the program do?
+
+-Reads course and assignment information
+
+-Reads learner submissions
+
+-Ignores assignments that are not due yet
+
+-Applies a 10% penalty for late submissions
+
+-Calculates assignment percentages
+
+-Calculates each learner’s average score
+
+-Returns the results in a clean and simple format
